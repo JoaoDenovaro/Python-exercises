@@ -1,0 +1,1 @@
+STRCNX = mysql+mysqlconnector://root:aluno99@localhost:3306/INFINITY
